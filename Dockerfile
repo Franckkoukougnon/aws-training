@@ -1,6 +1,6 @@
 FROM ubuntu
 
-LABEL maintainer victor@victor.fr
+LABEL maintainer franckkoukougnon@yahoo.fr
 
 RUN apt update
 
